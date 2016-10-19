@@ -1,2 +1,0 @@
-# JavaProgramming_SolvingProblemswithSoftware_week4
-Week4 miniproject
